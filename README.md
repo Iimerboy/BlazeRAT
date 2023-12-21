@@ -19,7 +19,7 @@ By using this software, you automatically agree to the above.
 
 1. Download the Debug.rar
 2. Execute `Debug.exe`
-3. 4. Enter your config
+3. Enter your config
 5. Select compiling location
 
 ## :herb: Functions:
